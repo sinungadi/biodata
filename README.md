@@ -31,7 +31,7 @@
 						<nav>
 							<ul>
 								<li><a href="#intro">About Me</a></li>
-								<li><a href="#work">Education</a></li>
+								<li><a href="#work">Education   </a></li>
 								<li><a href="#about">Experience & Skill</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
@@ -54,11 +54,11 @@
 							<article id="work">
 								<h2 class="major">Education</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p><h3> Sekolah Dasar <br/> </p>
+								<p><h3> Sekolah Dasar </h3> </p>
 								<p> SD Negeri 2 Gatak </p>
-								<p><h3> Sekolah Menengah Pertama <br/> </p>
+								<p><h3> Sekolah Menengah Pertama </h3> </p>
 								<p> SMP Negeri 1 Delanggu </p>
-								<p><h3> Sekolah Menengah Atas <br/> </p>
+								<p><h3> Sekolah Menengah Atas </h3> </p>
 								<p> SMA Negeri 1 Karanganom </p>								
 							</article>
 
@@ -66,12 +66,12 @@
 							<article id="about">
 								<h2 class="major">Experiences & Skills</h2>
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p><h3> Organisasi <br/> </p>
+								<p><h3> Organisasi </h3> </p>
 								<p> Staff Sie Bidang Intra Organisasi Swabretya Mawangkawa <br/>
 									Staff Departemen Internal Himagi 2020 <br/>
 									Staff Departemen Music Production UKM PEC 2020 </P>
 									
-								<p><h3> Kepanitiaan </h2> </p>
+								<p><h3> Kepanitiaan </h3> </p>
 								<p> Staff Divisi Acara Konser Gemerlap PEC 2019 <br/>
 									Komandan Lapangan Konser Gemerlap PEC 2019 <br/>
 									Kepala Divisi Acara Mini Konser PEC 2019 <p>
